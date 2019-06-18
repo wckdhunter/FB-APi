@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>fb0082</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>fb0082</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>C:\Program Files (x86)\Xinox Software\JCreatorV5\start.zip</path>
+			<source>false</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>fb0082\PostsFromPageExtractor.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>true</active>
+		</docitem>
+	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>fb0082\PostsFromPageExtractor.java.sdk</path>
+			<symbols>
+				<symbol>PostsFromPageExtractor</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>
